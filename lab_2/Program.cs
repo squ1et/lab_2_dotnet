@@ -2,9 +2,6 @@ namespace lab_2
 {
     internal static class Program
     {
-        /// <summary>
-        ///  The main entry point for the application.
-        /// </summary>
         [STAThread]
         static void Main()
         {
@@ -15,3 +12,6 @@ namespace lab_2
         }
     }
 }
+
+//4. Створіть масив з п'яти прізвищ і виведіть їх на екран ті з них, які починаються з певної букви, яка вводиться з клавіатури.
+//Створіть двовимірний цілочисельний масив А [1..10, 1..7] і знайдіть суму всіх його елементів, що мають обидва непарних індекса.
